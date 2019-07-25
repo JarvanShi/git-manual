@@ -46,7 +46,7 @@ git mv <file1> <file2>  # 在git中移动文件
 
 ## git分支操作
 1. 列出分支
-git branch
+git branch -a
 2. 创建分支
 git branch <branch name>
 git checkout -b <branch name>
